@@ -11,7 +11,7 @@ End of week one project to prove basic understanding of this week's concepts. A 
 ### GH-pages link
 https://github.com/brgotting/my-portfolio
 
-##Setup
+## Setup
 Clone this repository.
 
 
