@@ -1,6 +1,17 @@
 h1{
   text-align: center;
+  font-size: 100px;
+  font-family: serif;
 }
 h2{
   text-align: center;
+}
+.col-md-3{
+  margin-top: 150px;
+  padding:10px;
+
+}
+.col-md-6{
+  margin-top: 100px;
+  padding: 40px;
 }
