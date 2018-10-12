@@ -44,5 +44,11 @@ img{
 
 }
 .important-text{
-  background-color: #00FFFF;
+  background-color: #C0C0C0;
+}
+
+.img{
+  width: 240px;
+  height: 300px;
+  float: right;
 }
