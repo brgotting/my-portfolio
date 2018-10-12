@@ -1,9 +1,10 @@
 # Portfolio
 
+## Description
+End of week one project to prove basic understanding of this week's concepts.
+
 # Author
 Blake Gotting
-
-## Description
 
 ### GH-pages link
 

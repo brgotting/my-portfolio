@@ -1,7 +1,13 @@
 body p{
   font-style: oblique;
+}
 
+#paragraph-spacing{
+  padding: 20px;
+}
 
+.important-text{
+  font-weight: bold;
 }
 
 h1{
@@ -9,26 +15,15 @@ h1{
   font-size: 100px;
   font-family: serif;
 }
+
 h2{
   text-align: center;
   font-size: 70px;
   font-family: sans-serif;
-
 }
+
 h3{
   text-align: center;
-}
-
-.col-md-3{
-  text-align: left;
-  padding:10px;
-
-}
-.col-md-6{
-  padding: 40px;
-}
-#paragraph-spacing{
-  padding: 20px;
 }
 
 img{
@@ -37,31 +32,39 @@ img{
   border-color: blue;
   border-radius: 10px;
 }
-.border{
-  border-color: #00FFFF;
-
-
-}
-
-#rcorners3 {
-    border-radius: 10px;
-    background-position: left top;
-    background-repeat: repeat;
-
-}
-.important-text{
-  background-color: #C0C0C0;
-}
-
 .img{
   width: 240px;
   height: 300px;
   float: right;
 }
-.main-header {
+
+.col-md-3{
+  text-align: left;
+  padding:10px;
+}
+
+.col-md-6{
+  padding: 40px;
+}
+
+.border{
+  border-color: #00FFFF;
+}
+
+.main-header{
   text-align: center;
   width: 100%;
   float: inherit;
   padding-right: 40px;
+}
 
+.jumbotron{
+  color: blue;
+  background-color: cyan;
+}
+
+#rcorners3 {
+  border-radius: 10px;
+  background-position: left top;
+  background-repeat: repeat;
 }
