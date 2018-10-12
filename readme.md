@@ -1,6 +1,6 @@
 # Portfolio
 
-#Author
+# Author
 Blake Gotting
 
 ## Description
@@ -9,7 +9,6 @@ Blake Gotting
 
 ## Setup
 Code uses HTML, CSS, and Bootstrap.
-
 
 ## License
 MT
