@@ -7,7 +7,7 @@
 End of week one project to prove basic understanding of this week's concepts. A basic website built using week one spacial techniques such as floats, columns, classes, etc.
 
 ### GH-pages link
-https://github.com/brgotting/my-portfolio/tree/gh-pages
+https://brgotting.github.io/my-portfolio/
 
 ## Setup
 Clone this repository.

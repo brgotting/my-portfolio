@@ -62,6 +62,9 @@ img:hover {
   background-position: left top;
   background-repeat: repeat;
 }
+
+@media screen and (min-width: 0px) and (max-width: 700px){
+  
 body{
   float: left;
   }
