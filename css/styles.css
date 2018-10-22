@@ -2,36 +2,29 @@ body p{
   font-style: oblique;
 
 }
-
-#paragraph-spacing{
+.paragraph-spacing{
   padding: 20px;
 }
-
 .important-text{
   font-weight: bold;
   float: left;
 }
-
 h1{
   text-align: center;
   font-size: 100px;
   font-family: /* COMBAK:  */;
 }
-
 #grad{
   color: linear-gradient(red, yellow);
 }
-
 h2{
   text-align: center;
   font-size: 70px;
   font-family: sans-serif;
 }
-
 h3{
   text-align: center;
 }
-
 img{
   width:400px;
   margin: 50px;
@@ -39,48 +32,37 @@ img{
   border-radius: 10px;
 }
 img:hover {
-    opacity: 0.5;
-    filter: alpha(opacity=50); /* For IE8 and earlier */
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
 }
-
 .img{
   width: 240px;
   height: 300px;
   float: right;
 }
-
 .col-md-3{
   text-align: left;
   padding:10px;
 }
-
 .col-md-6{
   padding: 40px;
   float: left;
 }
-
 .border{
   border-color: #00FFFF;
 }
-
 .main-header{
   text-align: center;
   width: 100%;
   float: inherit;
   padding-right: 40px;
 }
-
-#rcorners3 {
+.rcorners3 {
   border-radius: 10px;
   background-position: left top;
   background-repeat: repeat;
 }
-
-@media screen and (min-width: 0px) and (max-width: 700px){
-
-  body{
-    float: left;
-
+body{
+  float: left;
   }
-
 }
