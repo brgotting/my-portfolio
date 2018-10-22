@@ -9,7 +9,7 @@ End of week one project to prove basic understanding of this week's concepts. A 
 ![Screenshot](img/Screenshotrm.jpg)
 
 ### GH-pages link
-https://github.com/brgotting/my-portfolio
+https://github.com/brgotting/my-portfolio/tree/gh-pages
 
 ## Setup
 Clone this repository.
